@@ -4,7 +4,8 @@ RENCANA MATERI
 - Javascript
   * ES 6
   * Framework Javascript
-    ^ Angular
+    ^ Vue
     ^ React
 - Belajar Data Science
   ^ SQL
+- Python
