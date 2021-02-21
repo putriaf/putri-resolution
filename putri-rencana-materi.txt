@@ -6,3 +6,4 @@ RENCANA MATERI
 - Javascript
   * ES 6
   * Framework Javascript
+- Belajar Data Science
