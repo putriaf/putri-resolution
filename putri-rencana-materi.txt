@@ -1,8 +1,6 @@
 RENCANA MATERI
 
 - Pemrograman Dasar
-- Struktur Data
-- Pemrograman Web
 - Javascript
   * ES 6
   * Framework Javascript
